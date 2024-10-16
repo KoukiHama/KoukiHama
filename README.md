@@ -2,7 +2,7 @@
 
 👀 I’m interested in SBOM/OSS management tools like SW360 and Green Software Engineering
 
-🌱 I’m currently learning SPDX/CyconeDX/SBOM and Green Software Engineering trends
+🌱 I’m currently learning SPDX/CycloneDX/SBOM and Green Software Engineering trends
 
 💞️ I’m looking to collaborate on a variety of OSS communities
 
